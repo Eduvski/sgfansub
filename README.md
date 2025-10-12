@@ -2,10 +2,10 @@
 | Episódio | Responsável | Status | 
 |:---:|:---:|:---:
 |01|Edu|Traduzido|
-|02|Zenn|Traduzido|
+|02|Zenn|Tradução em andamento|
 |03|Edu|Traduzido|
 |04|Zenn|-|
-|05|Edu|Em Andamento|
+|05|Edu|Tradução em andamento|
 |06|Zenn|-|
 |07|Edu|-|
 |08|Zenn|-|
@@ -33,4 +33,4 @@
 |Ending|Zenn|Traduzido|
 |Skyclad Observer|Zenn|Traduzido|
 
-Ordem Status: ```Em Andamento``` → ```Traduzido``` → ```Falas Temporizadas``` → ```Typesetting Pronto``` → ```Clean Up``` → ```Finalizado```
+Ordem Status: ```Tradução em andamento``` → ```Traduzido``` → ```Falas Temporizadas``` → ```Typesetting Pronto``` → ```Clean Up``` → ```Finalizado```
