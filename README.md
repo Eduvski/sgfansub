@@ -32,3 +32,5 @@
 |Abertura 2|Zenn|Traduzido|
 |Ending|Zenn|Traduzido|
 |Skyclad Observer|Zenn|Traduzido|
+
+Ordem Status: Em Andamento → Traduzido → Falas Temporizadas → Typesetting Pronto → Clean Up → Finalizado
