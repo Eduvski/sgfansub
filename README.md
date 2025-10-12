@@ -1,1 +1,2 @@
-# sgfansub
+| Episódio | Status |
+|----------|--------|
