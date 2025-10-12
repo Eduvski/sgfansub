@@ -1,5 +1,5 @@
 
-| Episódio | Responsável | Status |
+| Episódio | Responsável | Status | 
 |:---:|:---:|:---:
 |01|Edu|-|
 |02|Zenn|-|
@@ -25,7 +25,9 @@
 |22|Zenn|-|
 |23|Edu|-|
 |24|Zenn|-|
+
 |Outros|Responsável|Status|
+|:---:|:---:|:---:
 |Abertura 1|Zenn|-|
 |Abertura 2|Zenn|-|
 |Ending|Zenn|-|
