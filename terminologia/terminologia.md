@@ -1,4 +1,4 @@
-|Japonês|Romaji|CoZ|Tradução|
+|Japonês|Romaji|CoZ/inglês|Tradução|
 |:---:|:---:|:---:|:---:|
 | 世界線 | sekaisen | - |linha de mundo| 
 | 収束 | shuusoku | - | convergência/convergir |
@@ -24,5 +24,6 @@
 | - | - | - | - |
 | - | - | - | - |
 | - | - | - | - |
+
 
 
