@@ -26,7 +26,6 @@
 |23|Edu|-|
 |24|Zenn|-|
 |Outros|Responsável|Status|
-|:---:|:---:|:---:|
 |Abertura 1|Zenn|-|
 |Abertura 2|Zenn|-|
 |Ending|Zenn|-|
