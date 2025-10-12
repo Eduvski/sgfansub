@@ -12,4 +12,15 @@
 | - | Otsu | epic #, bro | - |
 | - | Denwa Renji (Kakko Kari) | Phonewave (name subject to change) | Tele-ondas (Nome sujeito à mudanças |
 | 牧瀬紅莉栖が  \| 、 何者かに刺  \| されたみたい \| だ | Makise Kurisu ga \| , nanimono ka ni \| saserareta mitai \| da | Someone stab \| bed Makise K \| urisu. Don't \| know who. Looked bad. Hope she's okay. | Esfaquearam \| Makise Kuris \| u pelo jeito |
-
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
+| - | - | - | - |
