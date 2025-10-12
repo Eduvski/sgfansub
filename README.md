@@ -1,11 +1,11 @@
 
 | Episódio | Responsável | Status | 
 |:---:|:---:|:---:
-|01|Edu|-|
-|02|Zenn|-|
-|03|Edu|-|
+|01|Edu|Traduzido|
+|02|Zenn|Traduzido|
+|03|Edu|Traduzido|
 |04|Zenn|-|
-|05|Edu|-|
+|05|Edu|Traduzindo|
 |06|Zenn|-|
 |07|Edu|-|
 |08|Zenn|-|
@@ -28,7 +28,7 @@
 
 |Outros|Responsável|Status|
 |:---:|:---:|:---:
-|Abertura 1|Zenn|-|
-|Abertura 2|Zenn|-|
-|Ending|Zenn|-|
-|Skyclad Observer|Zenn|-|
+|Abertura 1|Zenn|Traduzido|
+|Abertura 2|Zenn|Traduzido|
+|Ending|Zenn|Traduzido|
+|Skyclad Observer|Zenn|Traduzido|
