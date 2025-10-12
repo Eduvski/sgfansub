@@ -1,0 +1,9 @@
+|Japonês|Romaji|CoZ|Tradução|
+|:---:|:---:|:---:|:---:|
+| 世界線 | sekaisen | -  |linha de mundo| 
+| 収束 | shuusoku | - | convergência/convergir |
+| 支配者 | shihaisha | - | Governante(s) |
+| 妄想 | mousou | - | delírio |
+| 幻 | maboroshi | - | alucinação |
+| 世界の意思 | sekai no ishi | - | vontade do mundo | 
+
