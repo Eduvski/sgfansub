@@ -5,7 +5,7 @@
 |02|Zenn|Traduzido|
 |03|Edu|Traduzido|
 |04|Zenn|-|
-|05|Edu|Traduzindo|
+|05|Edu|Em Andamento|
 |06|Zenn|-|
 |07|Edu|-|
 |08|Zenn|-|
@@ -33,4 +33,4 @@
 |Ending|Zenn|Traduzido|
 |Skyclad Observer|Zenn|Traduzido|
 
-Ordem Status: Em Andamento → Traduzido → Falas Temporizadas → Typesetting Pronto → Clean Up → Finalizado
+Ordem Status: ```Em Andamento``` → ```Traduzido``` → ```Falas Temporizadas``` → ```Typesetting Pronto``` → ```Clean Up``` → ```Finalizado```
