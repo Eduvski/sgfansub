@@ -2,7 +2,7 @@
 | Episódio | Responsável | Status           |\||           Episódio | Responsável | Status |
 |:---:|:---:|:---:                        |:---:|                         :---:|:---:|:---:|
 |01|Edu|Traduzido                           |\|                        |13|Edu|-           |
-|02|Zenn|Tradução em andamento              |\|                        |14|Zenn|-          |
+|02|Zenn|Traduzido              |\|                        |14|Zenn|-          |
 |03|Edu|Traduzido                           |\|                        |15|Edu|-           |           
 |04|Zenn|-                                  |\|                        |16|Zenn|-          |
 |05|Edu|Tradução em andamento               |\|                        |17|Edu|-           |
