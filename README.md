@@ -27,7 +27,7 @@
 |24|-|Zenn|
 
 |Outros|Status|Responsável|
-|:---:|:---:|:---:¨|
+|:---:|:---:|:---:|
 |Abertura 1|-|Zenn|
 |Abertura 2|-|Zenn|
 |Ending|-|Zenn|
