@@ -33,4 +33,4 @@
 |Ending|Zenn|Traduzido|
 |Skyclad Observer|Zenn|Traduzido|
 
-Ordem Status: ```Tradução em andamento``` → ```Traduzido``` → ```Falas Temporizadas``` → ```Typesetting Pronto``` → ```Clean Up``` → ```Finalizado```
+Ordem Status: ```Tradução em andamento``` → ```Traduzido``` → ```Falas Temporizadas``` → ```Typesetting em Andamento``` → ```Typesetting Pronto``` → ```Revisão Final em Andamento``` → ```Finalizado```
