@@ -15,6 +15,7 @@
 | 世界の支配構造 | sekai no shihai kouzou | world's ruling structure | estrutura dominante do mundo |
 | - | - | Jellyman's Report | - |
 | - | - | Lifter | - |
+| - | - | Z-Program | - |
 | - | - | - | - |
 | - | - | - | - |
 | - | - | - | - |
@@ -23,7 +24,7 @@
 | - | - | - | - |
 | - | - | - | - |
 | - | - | - | - |
-| - | - | - | - |
+
 
 
 
