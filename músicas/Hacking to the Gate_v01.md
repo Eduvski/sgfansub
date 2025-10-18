@@ -1,0 +1,15 @@
+Até mesmo os bilhões de batimentos cardíacos  
+para você são tão importantes quanto um piscar de olhos  
+Mesmo preso ao passado, ainda se lamenta o futuro  
+É uma inevitabilidade que não perdoa um ínfimo erro  
+
+Pelo "infinito" se estendem os sonhos e o futuro,  
+privilégios fúteis que nos foram concedidos  
+Porém, "finito" é o resultado que os dois ponteiros apontam  
+Um contrato cruel se torna uma escolha:  
+Hackeando o Portão!  
+
+Então, pulo entre Linhas de Mundo a cada segundo  
+porque quero proteger este teu sorriso  
+Novamente, em direção a um loop temporal sem a tristeza  
+O Observador Solitário deverá ser engolido. 
