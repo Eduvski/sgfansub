@@ -18,12 +18,13 @@
 | Z　プログラム | zetto puroguramu | Z-Program | Programa-Z |
 | スターダストシェイクハンド | sutaadasuto sheikuhando | Stardust Handshake | Stardust Handshake |
 | バイト戦士 | baitosenshi | Part-Time Warrior | Soldada de Meio-Período |
+| 電話レンジ（仮） | denwarenji kakko kari | PhoneWave (name subject to change) | Tele-Ondas (Temporário) |
 | - | - | - | - |
 | - | - | - | - |
 | - | - | - | - |
 | - | - | - | - |
 | - | - | - | - |
-| - | - | - | - |
+
 
 
 
