@@ -1,6 +1,6 @@
-Até mesmo as afirmações da vida e provas sem sentido 
-Para você, não são engraçadas o suficiente nem para matar o tédio 
-Fingindo-se de Governantes, essa raça tola, 
+Até mesmo as afirmações da vida e provas sem sentido
+Para você, não são engraçadas o suficiente nem para matar o tédio
+Fingindo-se de Governantes, essa raça tola,
 e presunçosamente enfileiram teorias imaturas. 
 
 O amor que acreditávamos ser "infinito", bem como o além do céu 
