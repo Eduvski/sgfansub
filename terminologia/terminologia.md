@@ -1,11 +1,11 @@
 |Japonês|Romaji|CoZ/inglês|Tradução|
 |:---:|:---:|:---:|:---:|
 | 世界線 | sekaisen | worldline |linha de mundo| 
-| 収束 | shuusoku | - | convergência/convergir |
-| 支配者 | shihaisha | - | Governante(s) |
+| 収束 | shuusoku | Convergence | convergência/convergir |
+| 支配者 | shihaisha | Ruler(s) | Governante(s) |
 | 妄想 | mousou | delusion | delírio |
 | 幻 | maboroshi | - | alucinação |
-| 世界の意思 | sekai no ishi | - | vontade do mundo | 
+| 世界の意思 | sekai no ishi | the will of the world | vontade do mundo | 
 | だが断る！ | Daga Kotowaru! | But I refuse | Mas eu me recuso! |
 | 常考 | joukou | smh | - |
 | 未来ガジェット研究場 | mirai gajetto kenkyuujou | Future Gadget Laboratory | Laboratório de Gadgets do Futuro |
@@ -24,6 +24,7 @@
 | - | - | - | - |
 | - | - | - | - |
 | - | - | - | - |
+
 
 
 
