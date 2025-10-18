@@ -7,7 +7,7 @@
 |[04](https://github.com/Eduvski/sgfansub/blob/main/eps/04/E4)|Zenn|Tradução em Andamento|\|                    |[16](https://github.com/Eduvski/sgfansub/blob/main/eps/16/E16)|Zenn|-          |
 |[05](https://github.com/Eduvski/sgfansub/blob/main/eps/05/E5)|Edu|Traduzido             |\|                    |[17](https://github.com/Eduvski/sgfansub/blob/main/eps/17/E17)|Edu|-           |
 |[06](https://github.com/Eduvski/sgfansub/blob/main/eps/06/E6)|Zenn|-                    |\|                    |[18](https://github.com/Eduvski/sgfansub/blob/main/eps/18/E18)|Zenn|-          |
-|[07](https://github.com/Eduvski/sgfansub/blob/main/eps/07/E7)|Edu|-                     |\|                    |[19](https://github.com/Eduvski/sgfansub/blob/main/eps/19/E19)|Edu|-           |
+|[07](https://github.com/Eduvski/sgfansub/blob/main/eps/07/E7)|Edu|-Tradução em Andamento|\|                    |[19](https://github.com/Eduvski/sgfansub/blob/main/eps/19/E19)|Edu|-           |
 |[08](https://github.com/Eduvski/sgfansub/blob/main/eps/08/E8)|Zenn|-                    |\|                    |[20](https://github.com/Eduvski/sgfansub/blob/main/eps/20/E20)|Zenn|-          |
 |[09](https://github.com/Eduvski/sgfansub/blob/main/eps/09/E9)|Edu|-                     |\|                    |[21](https://github.com/Eduvski/sgfansub/blob/main/eps/21/E21)|Edu|-           |
 |[10](https://github.com/Eduvski/sgfansub/blob/main/eps/10/E10)|Zenn|-                   |\|                    |[22](https://github.com/Eduvski/sgfansub/blob/main/eps/22/E22)|Zenn|-          |
